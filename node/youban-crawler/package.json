@@ -1,0 +1,13 @@
+{
+  "name": "youban-crawler",
+  "version": "1.0.0",
+  "description": "Download MP3 from http://www.youban.com/mp3/",
+  "main": "download.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "commander": "2.9.0",
+    "superagent": "3.5.0"
+  }
+}
